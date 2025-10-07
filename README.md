@@ -37,7 +37,7 @@ python -m http.server 8000
 # then open http://localhost:8000 in your browser
 
 3. Inspect behavior in the browser console / devtools and try the safe vs. unsafe inputs as described in each demo file.
-## 📁 Example structure
+
 ```csharp
 index.html
 demo/
